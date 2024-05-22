@@ -1,6 +1,6 @@
 # Time-Visuals-Progress-bar
 
-clone this repository from here:
+Clone this repo from here:
 git clone https://github.com/Vivek0311/Time-Visuals-Progress-bar.git
 
 Some contributions which are required to run this better and host:
